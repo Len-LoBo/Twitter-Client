@@ -32,7 +32,7 @@ Tweet Away is an android app that allows a user to view his Twitter timeline. Th
 - [x] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
 - [x] User can **open the twitter app offline and see last loaded tweets**. Persisted in SQLite tweets are refreshed on every application launch. While "live data" is displayed when app can get it from Twitter API, it is also saved for use in offline mode.
 
-## Video Walkthrough
+## Video Walkthroughs
 
 Here's a walkthrough of implemented user stories:
 
